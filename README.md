@@ -32,6 +32,7 @@ NSNumber* num = arr[1];
 NSMutableArray* arr = [@[@1, @2, @3] mutableCopy];
 [arr addObject:@"Some string"];
 [arr insertObject:@"312" atIndex:1];
+
 [arr replaceObjectAtIndex:0 withObject:@"123"];
 //эквивалентно
 arr[0] = @"123";
