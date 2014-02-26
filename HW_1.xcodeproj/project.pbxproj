@@ -7,151 +7,156 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BDDA87391833F49300C9F1FC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BDDA87381833F49300C9F1FC /* Foundation.framework */; };
-		BDDA873B1833F49300C9F1FC /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BDDA873A1833F49300C9F1FC /* CoreGraphics.framework */; };
-		BDDA873D1833F49300C9F1FC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BDDA873C1833F49300C9F1FC /* UIKit.framework */; };
-		BDDA87431833F49300C9F1FC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BDDA87411833F49300C9F1FC /* InfoPlist.strings */; };
-		BDDA87451833F49300C9F1FC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BDDA87441833F49300C9F1FC /* main.m */; };
-		BDDA87491833F49300C9F1FC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BDDA87481833F49300C9F1FC /* AppDelegate.m */; };
-		BDDA874B1833F49300C9F1FC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDDA874A1833F49300C9F1FC /* Images.xcassets */; };
-		BDDA87521833F49400C9F1FC /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BDDA87511833F49400C9F1FC /* XCTest.framework */; };
-		BDDA87531833F49400C9F1FC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BDDA87381833F49300C9F1FC /* Foundation.framework */; };
-		BDDA87541833F49400C9F1FC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BDDA873C1833F49300C9F1FC /* UIKit.framework */; };
-		BDDA875C1833F49400C9F1FC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BDDA875A1833F49400C9F1FC /* InfoPlist.strings */; };
-		BDDA875E1833F49400C9F1FC /* HW_1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = BDDA875D1833F49400C9F1FC /* HW_1Tests.m */; };
-		BDDA87691833F4F300C9F1FC /* Company.m in Sources */ = {isa = PBXBuildFile; fileRef = BDDA87681833F4F300C9F1FC /* Company.m */; };
-		BDDA876C1833F51000C9F1FC /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = BDDA876B1833F51000C9F1FC /* Person.m */; };
-		BDDA876D1834022300C9F1FC /* Company.m in Sources */ = {isa = PBXBuildFile; fileRef = BDDA87681833F4F300C9F1FC /* Company.m */; };
-		BDDA876E1834022300C9F1FC /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = BDDA876B1833F51000C9F1FC /* Person.m */; };
+		A869218C18BDF03300F81E26 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A869218B18BDF03300F81E26 /* Foundation.framework */; };
+		A869218E18BDF03300F81E26 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A869218D18BDF03300F81E26 /* CoreGraphics.framework */; };
+		A869219018BDF03300F81E26 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A869218F18BDF03300F81E26 /* UIKit.framework */; };
+		A869219618BDF03300F81E26 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A869219418BDF03300F81E26 /* InfoPlist.strings */; };
+		A869219818BDF03300F81E26 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A869219718BDF03300F81E26 /* main.m */; };
+		A869219C18BDF03300F81E26 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A869219B18BDF03300F81E26 /* AppDelegate.m */; };
+		A869219F18BDF03300F81E26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A869219D18BDF03300F81E26 /* Main.storyboard */; };
+		A86921A218BDF03300F81E26 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A86921A118BDF03300F81E26 /* ViewController.m */; };
+		A86921A418BDF03300F81E26 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A86921A318BDF03300F81E26 /* Images.xcassets */; };
+		A86921C218BDF9B900F81E26 /* MYNotificationCenter.m in Sources */ = {isa = PBXBuildFile; fileRef = A86921C118BDF9B900F81E26 /* MYNotificationCenter.m */; };
+		A86921F718BE133E00F81E26 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A86921AA18BDF03300F81E26 /* XCTest.framework */; };
+		A86921F818BE133E00F81E26 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A869218B18BDF03300F81E26 /* Foundation.framework */; };
+		A86921F918BE133E00F81E26 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A869218F18BDF03300F81E26 /* UIKit.framework */; };
+		A86921FF18BE133E00F81E26 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A86921FD18BE133E00F81E26 /* InfoPlist.strings */; };
+		A869220118BE133E00F81E26 /* KiwiUnitTest.m in Sources */ = {isa = PBXBuildFile; fileRef = A869220018BE133E00F81E26 /* KiwiUnitTest.m */; };
+		A89A3ED818BE141D00115826 /* MYNotificationCenter.m in Sources */ = {isa = PBXBuildFile; fileRef = A86921C118BDF9B900F81E26 /* MYNotificationCenter.m */; };
+		A89A3EDB18BE150700115826 /* TestObj.m in Sources */ = {isa = PBXBuildFile; fileRef = A89A3EDA18BE150700115826 /* TestObj.m */; };
+		C5BB8EC0FEE94FC9A819BEFE /* libPods-KiwiUnitTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6D74F4ACF57644DE8961B22B /* libPods-KiwiUnitTest.a */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		BDDA87551833F49400C9F1FC /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BDDA872D1833F49300C9F1FC /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = BDDA87341833F49300C9F1FC;
-			remoteInfo = HW_1;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
-		BDDA87351833F49300C9F1FC /* HW_1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HW_1.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		BDDA87381833F49300C9F1FC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		BDDA873A1833F49300C9F1FC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		BDDA873C1833F49300C9F1FC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		BDDA87401833F49300C9F1FC /* HW_1-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HW_1-Info.plist"; sourceTree = "<group>"; };
-		BDDA87421833F49300C9F1FC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		BDDA87441833F49300C9F1FC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		BDDA87461833F49300C9F1FC /* HW_1-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HW_1-Prefix.pch"; sourceTree = "<group>"; };
-		BDDA87471833F49300C9F1FC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		BDDA87481833F49300C9F1FC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		BDDA874A1833F49300C9F1FC /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		BDDA87501833F49400C9F1FC /* HW_1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HW_1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		BDDA87511833F49400C9F1FC /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		BDDA87591833F49400C9F1FC /* HW_1Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HW_1Tests-Info.plist"; sourceTree = "<group>"; };
-		BDDA875B1833F49400C9F1FC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		BDDA875D1833F49400C9F1FC /* HW_1Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HW_1Tests.m; sourceTree = "<group>"; };
-		BDDA87671833F4F300C9F1FC /* Company.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Company.h; sourceTree = "<group>"; };
-		BDDA87681833F4F300C9F1FC /* Company.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Company.m; sourceTree = "<group>"; };
-		BDDA876A1833F51000C9F1FC /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
-		BDDA876B1833F51000C9F1FC /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		6D74F4ACF57644DE8961B22B /* libPods-KiwiUnitTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-KiwiUnitTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A869218818BDF03300F81E26 /* HW_1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HW_1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A869218B18BDF03300F81E26 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		A869218D18BDF03300F81E26 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		A869218F18BDF03300F81E26 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		A869219318BDF03300F81E26 /* HW_1-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HW_1-Info.plist"; sourceTree = "<group>"; };
+		A869219518BDF03300F81E26 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A869219718BDF03300F81E26 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A869219918BDF03300F81E26 /* HW_1-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HW_1-Prefix.pch"; sourceTree = "<group>"; };
+		A869219A18BDF03300F81E26 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		A869219B18BDF03300F81E26 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		A869219E18BDF03300F81E26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A86921A018BDF03300F81E26 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		A86921A118BDF03300F81E26 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		A86921A318BDF03300F81E26 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		A86921AA18BDF03300F81E26 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		A86921C018BDF9B900F81E26 /* MYNotificationCenter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MYNotificationCenter.h; sourceTree = "<group>"; };
+		A86921C118BDF9B900F81E26 /* MYNotificationCenter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MYNotificationCenter.m; sourceTree = "<group>"; };
+		A86921F618BE133E00F81E26 /* KiwiUnitTest.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KiwiUnitTest.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A86921FC18BE133E00F81E26 /* KiwiUnitTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "KiwiUnitTest-Info.plist"; sourceTree = "<group>"; };
+		A86921FE18BE133E00F81E26 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A869220018BE133E00F81E26 /* KiwiUnitTest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KiwiUnitTest.m; sourceTree = "<group>"; };
+		A869220218BE133E00F81E26 /* KiwiUnitTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "KiwiUnitTest-Prefix.pch"; sourceTree = "<group>"; };
+		A89A3ED918BE150700115826 /* TestObj.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestObj.h; sourceTree = "<group>"; };
+		A89A3EDA18BE150700115826 /* TestObj.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestObj.m; sourceTree = "<group>"; };
+		FDCA82896A374879A6729168 /* Pods-KiwiUnitTest.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KiwiUnitTest.xcconfig"; path = "Pods/Pods-KiwiUnitTest.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BDDA87321833F49300C9F1FC /* Frameworks */ = {
+		A869218518BDF03300F81E26 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDDA873B1833F49300C9F1FC /* CoreGraphics.framework in Frameworks */,
-				BDDA873D1833F49300C9F1FC /* UIKit.framework in Frameworks */,
-				BDDA87391833F49300C9F1FC /* Foundation.framework in Frameworks */,
+				A869218E18BDF03300F81E26 /* CoreGraphics.framework in Frameworks */,
+				A869219018BDF03300F81E26 /* UIKit.framework in Frameworks */,
+				A869218C18BDF03300F81E26 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BDDA874D1833F49400C9F1FC /* Frameworks */ = {
+		A86921F318BE133E00F81E26 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDDA87521833F49400C9F1FC /* XCTest.framework in Frameworks */,
-				BDDA87541833F49400C9F1FC /* UIKit.framework in Frameworks */,
-				BDDA87531833F49400C9F1FC /* Foundation.framework in Frameworks */,
+				A86921F718BE133E00F81E26 /* XCTest.framework in Frameworks */,
+				A86921F918BE133E00F81E26 /* UIKit.framework in Frameworks */,
+				A86921F818BE133E00F81E26 /* Foundation.framework in Frameworks */,
+				C5BB8EC0FEE94FC9A819BEFE /* libPods-KiwiUnitTest.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		BDDA872C1833F49300C9F1FC = {
+		A869217F18BDF03300F81E26 = {
 			isa = PBXGroup;
 			children = (
-				BDDA873E1833F49300C9F1FC /* HW_1 */,
-				BDDA87571833F49400C9F1FC /* HW_1Tests */,
-				BDDA87371833F49300C9F1FC /* Frameworks */,
-				BDDA87361833F49300C9F1FC /* Products */,
+				A869219118BDF03300F81E26 /* HW_1 */,
+				A86921FA18BE133E00F81E26 /* KiwiUnitTest */,
+				A869218A18BDF03300F81E26 /* Frameworks */,
+				A869218918BDF03300F81E26 /* Products */,
+				FDCA82896A374879A6729168 /* Pods-KiwiUnitTest.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
-		BDDA87361833F49300C9F1FC /* Products */ = {
+		A869218918BDF03300F81E26 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BDDA87351833F49300C9F1FC /* HW_1.app */,
-				BDDA87501833F49400C9F1FC /* HW_1Tests.xctest */,
+				A869218818BDF03300F81E26 /* HW_1.app */,
+				A86921F618BE133E00F81E26 /* KiwiUnitTest.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BDDA87371833F49300C9F1FC /* Frameworks */ = {
+		A869218A18BDF03300F81E26 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				BDDA87381833F49300C9F1FC /* Foundation.framework */,
-				BDDA873A1833F49300C9F1FC /* CoreGraphics.framework */,
-				BDDA873C1833F49300C9F1FC /* UIKit.framework */,
-				BDDA87511833F49400C9F1FC /* XCTest.framework */,
+				A869218B18BDF03300F81E26 /* Foundation.framework */,
+				A869218D18BDF03300F81E26 /* CoreGraphics.framework */,
+				A869218F18BDF03300F81E26 /* UIKit.framework */,
+				A86921AA18BDF03300F81E26 /* XCTest.framework */,
+				6D74F4ACF57644DE8961B22B /* libPods-KiwiUnitTest.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		BDDA873E1833F49300C9F1FC /* HW_1 */ = {
+		A869219118BDF03300F81E26 /* HW_1 */ = {
 			isa = PBXGroup;
 			children = (
-				BDDA87471833F49300C9F1FC /* AppDelegate.h */,
-				BDDA87481833F49300C9F1FC /* AppDelegate.m */,
-				BDDA87671833F4F300C9F1FC /* Company.h */,
-				BDDA87681833F4F300C9F1FC /* Company.m */,
-				BDDA876A1833F51000C9F1FC /* Person.h */,
-				BDDA876B1833F51000C9F1FC /* Person.m */,
-				BDDA874A1833F49300C9F1FC /* Images.xcassets */,
-				BDDA873F1833F49300C9F1FC /* Supporting Files */,
+				A869219A18BDF03300F81E26 /* AppDelegate.h */,
+				A869219B18BDF03300F81E26 /* AppDelegate.m */,
+				A869219D18BDF03300F81E26 /* Main.storyboard */,
+				A86921A018BDF03300F81E26 /* ViewController.h */,
+				A86921A118BDF03300F81E26 /* ViewController.m */,
+				A86921C018BDF9B900F81E26 /* MYNotificationCenter.h */,
+				A86921C118BDF9B900F81E26 /* MYNotificationCenter.m */,
+				A86921A318BDF03300F81E26 /* Images.xcassets */,
+				A869219218BDF03300F81E26 /* Supporting Files */,
 			);
 			path = HW_1;
 			sourceTree = "<group>";
 		};
-		BDDA873F1833F49300C9F1FC /* Supporting Files */ = {
+		A869219218BDF03300F81E26 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				BDDA87401833F49300C9F1FC /* HW_1-Info.plist */,
-				BDDA87411833F49300C9F1FC /* InfoPlist.strings */,
-				BDDA87441833F49300C9F1FC /* main.m */,
-				BDDA87461833F49300C9F1FC /* HW_1-Prefix.pch */,
+				A869219318BDF03300F81E26 /* HW_1-Info.plist */,
+				A869219418BDF03300F81E26 /* InfoPlist.strings */,
+				A869219718BDF03300F81E26 /* main.m */,
+				A869219918BDF03300F81E26 /* HW_1-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		BDDA87571833F49400C9F1FC /* HW_1Tests */ = {
+		A86921FA18BE133E00F81E26 /* KiwiUnitTest */ = {
 			isa = PBXGroup;
 			children = (
-				BDDA875D1833F49400C9F1FC /* HW_1Tests.m */,
-				BDDA87581833F49400C9F1FC /* Supporting Files */,
+				A869220018BE133E00F81E26 /* KiwiUnitTest.m */,
+				A86921FB18BE133E00F81E26 /* Supporting Files */,
+				A89A3ED918BE150700115826 /* TestObj.h */,
+				A89A3EDA18BE150700115826 /* TestObj.m */,
 			);
-			path = HW_1Tests;
+			path = KiwiUnitTest;
 			sourceTree = "<group>";
 		};
-		BDDA87581833F49400C9F1FC /* Supporting Files */ = {
+		A86921FB18BE133E00F81E26 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				BDDA87591833F49400C9F1FC /* HW_1Tests-Info.plist */,
-				BDDA875A1833F49400C9F1FC /* InfoPlist.strings */,
+				A86921FC18BE133E00F81E26 /* KiwiUnitTest-Info.plist */,
+				A86921FD18BE133E00F81E26 /* InfoPlist.strings */,
+				A869220218BE133E00F81E26 /* KiwiUnitTest-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -159,13 +164,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BDDA87341833F49300C9F1FC /* HW_1 */ = {
+		A869218718BDF03300F81E26 /* HW_1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BDDA87611833F49400C9F1FC /* Build configuration list for PBXNativeTarget "HW_1" */;
+			buildConfigurationList = A86921BA18BDF03300F81E26 /* Build configuration list for PBXNativeTarget "HW_1" */;
 			buildPhases = (
-				BDDA87311833F49300C9F1FC /* Sources */,
-				BDDA87321833F49300C9F1FC /* Frameworks */,
-				BDDA87331833F49300C9F1FC /* Resources */,
+				A869218418BDF03300F81E26 /* Sources */,
+				A869218518BDF03300F81E26 /* Frameworks */,
+				A869218618BDF03300F81E26 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -173,124 +178,160 @@
 			);
 			name = HW_1;
 			productName = HW_1;
-			productReference = BDDA87351833F49300C9F1FC /* HW_1.app */;
+			productReference = A869218818BDF03300F81E26 /* HW_1.app */;
 			productType = "com.apple.product-type.application";
 		};
-		BDDA874F1833F49400C9F1FC /* HW_1Tests */ = {
+		A86921F518BE133E00F81E26 /* KiwiUnitTest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BDDA87641833F49400C9F1FC /* Build configuration list for PBXNativeTarget "HW_1Tests" */;
+			buildConfigurationList = A869220318BE133E00F81E26 /* Build configuration list for PBXNativeTarget "KiwiUnitTest" */;
 			buildPhases = (
-				BDDA874C1833F49400C9F1FC /* Sources */,
-				BDDA874D1833F49400C9F1FC /* Frameworks */,
-				BDDA874E1833F49400C9F1FC /* Resources */,
+				5B2030C9A0084FC6A399D734 /* Check Pods Manifest.lock */,
+				A86921F218BE133E00F81E26 /* Sources */,
+				A86921F318BE133E00F81E26 /* Frameworks */,
+				A86921F418BE133E00F81E26 /* Resources */,
+				E1C51992CD1A438F974822A5 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				BDDA87561833F49400C9F1FC /* PBXTargetDependency */,
 			);
-			name = HW_1Tests;
-			productName = HW_1Tests;
-			productReference = BDDA87501833F49400C9F1FC /* HW_1Tests.xctest */;
+			name = KiwiUnitTest;
+			productName = KiwiUnitTest;
+			productReference = A86921F618BE133E00F81E26 /* KiwiUnitTest.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		BDDA872D1833F49300C9F1FC /* Project object */ = {
+		A869218018BDF03300F81E26 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0500;
-				ORGANIZATIONNAME = "Alex Gra";
+				ORGANIZATIONNAME = Alexander;
 				TargetAttributes = {
-					BDDA874F1833F49400C9F1FC = {
-						TestTargetID = BDDA87341833F49300C9F1FC;
+					A86921F518BE133E00F81E26 = {
+						TestTargetID = A869218718BDF03300F81E26;
 					};
 				};
 			};
-			buildConfigurationList = BDDA87301833F49300C9F1FC /* Build configuration list for PBXProject "HW_1" */;
+			buildConfigurationList = A869218318BDF03300F81E26 /* Build configuration list for PBXProject "HW_1" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
-			mainGroup = BDDA872C1833F49300C9F1FC;
-			productRefGroup = BDDA87361833F49300C9F1FC /* Products */;
+			mainGroup = A869217F18BDF03300F81E26;
+			productRefGroup = A869218918BDF03300F81E26 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BDDA87341833F49300C9F1FC /* HW_1 */,
-				BDDA874F1833F49400C9F1FC /* HW_1Tests */,
+				A869218718BDF03300F81E26 /* HW_1 */,
+				A86921F518BE133E00F81E26 /* KiwiUnitTest */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		BDDA87331833F49300C9F1FC /* Resources */ = {
+		A869218618BDF03300F81E26 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDDA87431833F49300C9F1FC /* InfoPlist.strings in Resources */,
-				BDDA874B1833F49300C9F1FC /* Images.xcassets in Resources */,
+				A86921A418BDF03300F81E26 /* Images.xcassets in Resources */,
+				A869219618BDF03300F81E26 /* InfoPlist.strings in Resources */,
+				A869219F18BDF03300F81E26 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BDDA874E1833F49400C9F1FC /* Resources */ = {
+		A86921F418BE133E00F81E26 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDDA875C1833F49400C9F1FC /* InfoPlist.strings in Resources */,
+				A86921FF18BE133E00F81E26 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		5B2030C9A0084FC6A399D734 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		E1C51992CD1A438F974822A5 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-KiwiUnitTest-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
-		BDDA87311833F49300C9F1FC /* Sources */ = {
+		A869218418BDF03300F81E26 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDDA87491833F49300C9F1FC /* AppDelegate.m in Sources */,
-				BDDA87691833F4F300C9F1FC /* Company.m in Sources */,
-				BDDA876C1833F51000C9F1FC /* Person.m in Sources */,
-				BDDA87451833F49300C9F1FC /* main.m in Sources */,
+				A86921A218BDF03300F81E26 /* ViewController.m in Sources */,
+				A869219C18BDF03300F81E26 /* AppDelegate.m in Sources */,
+				A869219818BDF03300F81E26 /* main.m in Sources */,
+				A86921C218BDF9B900F81E26 /* MYNotificationCenter.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BDDA874C1833F49400C9F1FC /* Sources */ = {
+		A86921F218BE133E00F81E26 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDDA876E1834022300C9F1FC /* Person.m in Sources */,
-				BDDA875E1833F49400C9F1FC /* HW_1Tests.m in Sources */,
-				BDDA876D1834022300C9F1FC /* Company.m in Sources */,
+				A89A3EDB18BE150700115826 /* TestObj.m in Sources */,
+				A869220118BE133E00F81E26 /* KiwiUnitTest.m in Sources */,
+				A89A3ED818BE141D00115826 /* MYNotificationCenter.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXTargetDependency section */
-		BDDA87561833F49400C9F1FC /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = BDDA87341833F49300C9F1FC /* HW_1 */;
-			targetProxy = BDDA87551833F49400C9F1FC /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
-
 /* Begin PBXVariantGroup section */
-		BDDA87411833F49300C9F1FC /* InfoPlist.strings */ = {
+		A869219418BDF03300F81E26 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				BDDA87421833F49300C9F1FC /* en */,
+				A869219518BDF03300F81E26 /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		BDDA875A1833F49400C9F1FC /* InfoPlist.strings */ = {
+		A869219D18BDF03300F81E26 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				BDDA875B1833F49400C9F1FC /* en */,
+				A869219E18BDF03300F81E26 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A86921FD18BE133E00F81E26 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A86921FE18BE133E00F81E26 /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -298,7 +339,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		BDDA875F1833F49400C9F1FC /* Debug */ = {
+		A86921B818BDF03300F81E26 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -337,7 +378,7 @@
 			};
 			name = Debug;
 		};
-		BDDA87601833F49400C9F1FC /* Release */ = {
+		A86921B918BDF03300F81E26 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -370,7 +411,7 @@
 			};
 			name = Release;
 		};
-		BDDA87621833F49400C9F1FC /* Debug */ = {
+		A86921BB18BDF03300F81E26 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -383,7 +424,7 @@
 			};
 			name = Debug;
 		};
-		BDDA87631833F49400C9F1FC /* Release */ = {
+		A86921BC18BDF03300F81E26 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -396,8 +437,9 @@
 			};
 			name = Release;
 		};
-		BDDA87651833F49400C9F1FC /* Debug */ = {
+		A869220418BE133E00F81E26 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FDCA82896A374879A6729168 /* Pods-KiwiUnitTest.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/HW_1.app/HW_1";
@@ -407,20 +449,21 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "HW_1/HW_1-Prefix.pch";
+				GCC_PREFIX_HEADER = "KiwiUnitTest/KiwiUnitTest-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "HW_1Tests/HW_1Tests-Info.plist";
+				INFOPLIST_FILE = "KiwiUnitTest/KiwiUnitTest-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
 			name = Debug;
 		};
-		BDDA87661833F49400C9F1FC /* Release */ = {
+		A869220518BE133E00F81E26 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FDCA82896A374879A6729168 /* Pods-KiwiUnitTest.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/HW_1.app/HW_1";
@@ -430,8 +473,8 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "HW_1/HW_1-Prefix.pch";
-				INFOPLIST_FILE = "HW_1Tests/HW_1Tests-Info.plist";
+				GCC_PREFIX_HEADER = "KiwiUnitTest/KiwiUnitTest-Prefix.pch";
+				INFOPLIST_FILE = "KiwiUnitTest/KiwiUnitTest-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
@@ -441,32 +484,34 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BDDA87301833F49300C9F1FC /* Build configuration list for PBXProject "HW_1" */ = {
+		A869218318BDF03300F81E26 /* Build configuration list for PBXProject "HW_1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BDDA875F1833F49400C9F1FC /* Debug */,
-				BDDA87601833F49400C9F1FC /* Release */,
+				A86921B818BDF03300F81E26 /* Debug */,
+				A86921B918BDF03300F81E26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BDDA87611833F49400C9F1FC /* Build configuration list for PBXNativeTarget "HW_1" */ = {
+		A86921BA18BDF03300F81E26 /* Build configuration list for PBXNativeTarget "HW_1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BDDA87621833F49400C9F1FC /* Debug */,
-				BDDA87631833F49400C9F1FC /* Release */,
+				A86921BB18BDF03300F81E26 /* Debug */,
+				A86921BC18BDF03300F81E26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		BDDA87641833F49400C9F1FC /* Build configuration list for PBXNativeTarget "HW_1Tests" */ = {
+		A869220318BE133E00F81E26 /* Build configuration list for PBXNativeTarget "KiwiUnitTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BDDA87651833F49400C9F1FC /* Debug */,
-				BDDA87661833F49400C9F1FC /* Release */,
+				A869220418BE133E00F81E26 /* Debug */,
+				A869220518BE133E00F81E26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = BDDA872D1833F49300C9F1FC /* Project object */;
+	rootObject = A869218018BDF03300F81E26 /* Project object */;
 }

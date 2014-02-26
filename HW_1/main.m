@@ -2,8 +2,8 @@
 //  main.m
 //  HW_1
 //
-//  Created by Alexandr on 13.11.13.
-//  Copyright (c) 2013 Alex Gra. All rights reserved.
+//  Created by Alexander on 26.02.14.
+//  Copyright (c) 2014 Alexander. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
