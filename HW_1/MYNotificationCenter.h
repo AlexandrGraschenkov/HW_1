@@ -14,4 +14,5 @@
 - (void)unregisterObject:(id)obj notificationName:(NSString*)name;
 - (void)unregisterObject:(id)obj;
 - (void)postNotificationWithName:(NSString*)name;
+//- (void)printAll;
 @end
