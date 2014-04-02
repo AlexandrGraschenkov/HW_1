@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C98ED5818EC1A1B0095CC37 /* Object.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C98ED5718EC1A1B0095CC37 /* Object.m */; };
 		A869218C18BDF03300F81E26 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A869218B18BDF03300F81E26 /* Foundation.framework */; };
 		A869218E18BDF03300F81E26 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A869218D18BDF03300F81E26 /* CoreGraphics.framework */; };
 		A869219018BDF03300F81E26 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A869218F18BDF03300F81E26 /* UIKit.framework */; };
@@ -28,6 +29,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1C98ED5618EC1A1B0095CC37 /* Object.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Object.h; path = ../Object.h; sourceTree = "<group>"; };
+		1C98ED5718EC1A1B0095CC37 /* Object.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Object.m; path = ../Object.m; sourceTree = "<group>"; };
 		6D74F4ACF57644DE8961B22B /* libPods-KiwiUnitTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-KiwiUnitTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A869218818BDF03300F81E26 /* HW_1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HW_1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A869218B18BDF03300F81E26 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -123,6 +126,8 @@
 				A86921A118BDF03300F81E26 /* ViewController.m */,
 				A86921C018BDF9B900F81E26 /* MYNotificationCenter.h */,
 				A86921C118BDF9B900F81E26 /* MYNotificationCenter.m */,
+				1C98ED5618EC1A1B0095CC37 /* Object.h */,
+				1C98ED5718EC1A1B0095CC37 /* Object.m */,
 				A86921A318BDF03300F81E26 /* Images.xcassets */,
 				A869219218BDF03300F81E26 /* Supporting Files */,
 			);
@@ -292,6 +297,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C98ED5818EC1A1B0095CC37 /* Object.m in Sources */,
 				A86921A218BDF03300F81E26 /* ViewController.m in Sources */,
 				A869219C18BDF03300F81E26 /* AppDelegate.m in Sources */,
 				A869219818BDF03300F81E26 /* main.m in Sources */,
