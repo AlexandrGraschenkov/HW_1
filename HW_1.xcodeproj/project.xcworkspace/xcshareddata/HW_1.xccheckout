@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>8F2C34DD-6F8C-4EA3-9064-38569CA1D137</string>
+	<string>D3D692A1-4D13-4836-B925-8A87EF047391</string>
 	<key>IDESourceControlProjectName</key>
 	<string>HW_1</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>3D0E5C79-A119-4918-9B2E-7E233B845675</key>
+		<key>AC86D37E-EDBE-41B2-B608-D5DB1CAF5F22</key>
 		<string>https://github.com/timurnurutdinov/HW_1</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>HW_1.xcworkspace</string>
+	<string>HW_1.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>3D0E5C79-A119-4918-9B2E-7E233B845675</key>
-		<string>..</string>
+		<key>AC86D37E-EDBE-41B2-B608-D5DB1CAF5F22</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/timurnurutdinov/HW_1</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>3D0E5C79-A119-4918-9B2E-7E233B845675</string>
+	<string>AC86D37E-EDBE-41B2-B608-D5DB1CAF5F22</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>3D0E5C79-A119-4918-9B2E-7E233B845675</string>
+			<string>AC86D37E-EDBE-41B2-B608-D5DB1CAF5F22</string>
 			<key>IDESourceControlWCCName</key>
 			<string>HW_1</string>
 		</dict>
