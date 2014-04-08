@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		50044AFA18F45105000D4F5F /* RegisteredObjects.m in Sources */ = {isa = PBXBuildFile; fileRef = 50044AF918F45105000D4F5F /* RegisteredObjects.m */; };
 		A869218C18BDF03300F81E26 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A869218B18BDF03300F81E26 /* Foundation.framework */; };
 		A869218E18BDF03300F81E26 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A869218D18BDF03300F81E26 /* CoreGraphics.framework */; };
 		A869219018BDF03300F81E26 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A869218F18BDF03300F81E26 /* UIKit.framework */; };
@@ -28,6 +29,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		50044AF818F45105000D4F5F /* RegisteredObjects.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegisteredObjects.h; sourceTree = "<group>"; };
+		50044AF918F45105000D4F5F /* RegisteredObjects.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegisteredObjects.m; sourceTree = "<group>"; };
 		6D74F4ACF57644DE8961B22B /* libPods-KiwiUnitTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-KiwiUnitTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A869218818BDF03300F81E26 /* HW_1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HW_1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A869218B18BDF03300F81E26 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -125,6 +128,8 @@
 				A86921C118BDF9B900F81E26 /* MYNotificationCenter.m */,
 				A86921A318BDF03300F81E26 /* Images.xcassets */,
 				A869219218BDF03300F81E26 /* Supporting Files */,
+				50044AF818F45105000D4F5F /* RegisteredObjects.h */,
+				50044AF918F45105000D4F5F /* RegisteredObjects.m */,
 			);
 			path = HW_1;
 			sourceTree = "<group>";
@@ -296,6 +301,7 @@
 				A869219C18BDF03300F81E26 /* AppDelegate.m in Sources */,
 				A869219818BDF03300F81E26 /* main.m in Sources */,
 				A86921C218BDF9B900F81E26 /* MYNotificationCenter.m in Sources */,
+				50044AFA18F45105000D4F5F /* RegisteredObjects.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
