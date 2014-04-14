@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7792189F18FC1495003CB356 /* Obj_Reg.m in Sources */ = {isa = PBXBuildFile; fileRef = 7792189E18FC1495003CB356 /* Obj_Reg.m */; };
 		A869218C18BDF03300F81E26 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A869218B18BDF03300F81E26 /* Foundation.framework */; };
 		A869218E18BDF03300F81E26 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A869218D18BDF03300F81E26 /* CoreGraphics.framework */; };
 		A869219018BDF03300F81E26 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A869218F18BDF03300F81E26 /* UIKit.framework */; };
@@ -29,6 +30,8 @@
 
 /* Begin PBXFileReference section */
 		6D74F4ACF57644DE8961B22B /* libPods-KiwiUnitTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-KiwiUnitTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7792189D18FC1495003CB356 /* Obj_Reg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Obj_Reg.h; sourceTree = "<group>"; };
+		7792189E18FC1495003CB356 /* Obj_Reg.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Obj_Reg.m; sourceTree = "<group>"; };
 		A869218818BDF03300F81E26 /* HW_1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HW_1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A869218B18BDF03300F81E26 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A869218D18BDF03300F81E26 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -121,6 +124,8 @@
 				A869219D18BDF03300F81E26 /* Main.storyboard */,
 				A86921A018BDF03300F81E26 /* ViewController.h */,
 				A86921A118BDF03300F81E26 /* ViewController.m */,
+				7792189D18FC1495003CB356 /* Obj_Reg.h */,
+				7792189E18FC1495003CB356 /* Obj_Reg.m */,
 				A86921C018BDF9B900F81E26 /* MYNotificationCenter.h */,
 				A86921C118BDF9B900F81E26 /* MYNotificationCenter.m */,
 				A86921A318BDF03300F81E26 /* Images.xcassets */,
@@ -293,6 +298,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A86921A218BDF03300F81E26 /* ViewController.m in Sources */,
+				7792189F18FC1495003CB356 /* Obj_Reg.m in Sources */,
 				A869219C18BDF03300F81E26 /* AppDelegate.m in Sources */,
 				A869219818BDF03300F81E26 /* main.m in Sources */,
 				A86921C218BDF9B900F81E26 /* MYNotificationCenter.m in Sources */,
