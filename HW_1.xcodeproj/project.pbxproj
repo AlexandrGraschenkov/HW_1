@@ -25,6 +25,7 @@
 		A89A3ED818BE141D00115826 /* MYNotificationCenter.m in Sources */ = {isa = PBXBuildFile; fileRef = A86921C118BDF9B900F81E26 /* MYNotificationCenter.m */; };
 		A89A3EDB18BE150700115826 /* TestObj.m in Sources */ = {isa = PBXBuildFile; fileRef = A89A3EDA18BE150700115826 /* TestObj.m */; };
 		C5BB8EC0FEE94FC9A819BEFE /* libPods-KiwiUnitTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6D74F4ACF57644DE8961B22B /* libPods-KiwiUnitTest.a */; };
+		E34C17EE18E2955A00F341B8 /* LPObjectSelectorPair.m in Sources */ = {isa = PBXBuildFile; fileRef = E34C17ED18E2955A00F341B8 /* LPObjectSelectorPair.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,8 @@
 		A869220218BE133E00F81E26 /* KiwiUnitTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "KiwiUnitTest-Prefix.pch"; sourceTree = "<group>"; };
 		A89A3ED918BE150700115826 /* TestObj.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestObj.h; sourceTree = "<group>"; };
 		A89A3EDA18BE150700115826 /* TestObj.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestObj.m; sourceTree = "<group>"; };
+		E34C17EC18E2955A00F341B8 /* LPObjectSelectorPair.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPObjectSelectorPair.h; sourceTree = "<group>"; };
+		E34C17ED18E2955A00F341B8 /* LPObjectSelectorPair.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPObjectSelectorPair.m; sourceTree = "<group>"; };
 		FDCA82896A374879A6729168 /* Pods-KiwiUnitTest.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KiwiUnitTest.xcconfig"; path = "Pods/Pods-KiwiUnitTest.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -125,6 +128,8 @@
 				A86921C118BDF9B900F81E26 /* MYNotificationCenter.m */,
 				A86921A318BDF03300F81E26 /* Images.xcassets */,
 				A869219218BDF03300F81E26 /* Supporting Files */,
+				E34C17EC18E2955A00F341B8 /* LPObjectSelectorPair.h */,
+				E34C17ED18E2955A00F341B8 /* LPObjectSelectorPair.m */,
 			);
 			path = HW_1;
 			sourceTree = "<group>";
@@ -292,6 +297,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E34C17EE18E2955A00F341B8 /* LPObjectSelectorPair.m in Sources */,
 				A86921A218BDF03300F81E26 /* ViewController.m in Sources */,
 				A869219C18BDF03300F81E26 /* AppDelegate.m in Sources */,
 				A869219818BDF03300F81E26 /* main.m in Sources */,
