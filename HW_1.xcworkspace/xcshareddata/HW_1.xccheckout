@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>7797C90A-A683-44A3-8423-8C3A07700203</string>
+	<string>C7215C7C-C026-4845-9FDF-C8B62B0B22CB</string>
 	<key>IDESourceControlProjectName</key>
 	<string>HW_1</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>51B51FEF-5AA5-42AB-B8AA-CA1B32E1AD33</key>
-		<string>https://github.com/Sk0rpion/HW_1.git</string>
+		<key>6B31ECFD-50F3-4918-9BFF-06475E68765F</key>
+		<string>https://github.com/MaximStepanov/HW_1.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>HW_1.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>51B51FEF-5AA5-42AB-B8AA-CA1B32E1AD33</key>
+		<key>6B31ECFD-50F3-4918-9BFF-06475E68765F</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Sk0rpion/HW_1.git</string>
+	<string>https://github.com/MaximStepanov/HW_1.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>51B51FEF-5AA5-42AB-B8AA-CA1B32E1AD33</string>
+	<string>6B31ECFD-50F3-4918-9BFF-06475E68765F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>51B51FEF-5AA5-42AB-B8AA-CA1B32E1AD33</string>
+			<string>6B31ECFD-50F3-4918-9BFF-06475E68765F</string>
 			<key>IDESourceControlWCCName</key>
 			<string>HW_1</string>
 		</dict>
