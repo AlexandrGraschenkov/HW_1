@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4DA0F93E-4FBA-4988-809B-E2E3FD08832A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HW_ChartSchedule</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9229655A-A34B-4FFA-9AC0-923038DCB5D5</key>
+		<string>https://github.com/Sk0rpion/HW_ChartSchedule.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HW_ChartSchedule.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9229655A-A34B-4FFA-9AC0-923038DCB5D5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Sk0rpion/HW_ChartSchedule.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9229655A-A34B-4FFA-9AC0-923038DCB5D5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9229655A-A34B-4FFA-9AC0-923038DCB5D5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HW_ChartSchedule</string>
+		</dict>
+	</array>
+</dict>
+</plist>
