@@ -25,6 +25,7 @@
 		A89A3ED818BE141D00115826 /* MYNotificationCenter.m in Sources */ = {isa = PBXBuildFile; fileRef = A86921C118BDF9B900F81E26 /* MYNotificationCenter.m */; };
 		A89A3EDB18BE150700115826 /* TestObj.m in Sources */ = {isa = PBXBuildFile; fileRef = A89A3EDA18BE150700115826 /* TestObj.m */; };
 		C5BB8EC0FEE94FC9A819BEFE /* libPods-KiwiUnitTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6D74F4ACF57644DE8961B22B /* libPods-KiwiUnitTest.a */; };
+		E78D7FE21951CFAA00A01C6A /* SelectorInit.m in Sources */ = {isa = PBXBuildFile; fileRef = E78D7FE11951CFAA00A01C6A /* SelectorInit.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,8 @@
 		A869220218BE133E00F81E26 /* KiwiUnitTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "KiwiUnitTest-Prefix.pch"; sourceTree = "<group>"; };
 		A89A3ED918BE150700115826 /* TestObj.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestObj.h; sourceTree = "<group>"; };
 		A89A3EDA18BE150700115826 /* TestObj.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestObj.m; sourceTree = "<group>"; };
+		E78D7FE01951CFAA00A01C6A /* SelectorInit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectorInit.h; sourceTree = "<group>"; };
+		E78D7FE11951CFAA00A01C6A /* SelectorInit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectorInit.m; sourceTree = "<group>"; };
 		FDCA82896A374879A6729168 /* Pods-KiwiUnitTest.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KiwiUnitTest.xcconfig"; path = "Pods/Pods-KiwiUnitTest.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -123,6 +126,8 @@
 				A86921A118BDF03300F81E26 /* ViewController.m */,
 				A86921C018BDF9B900F81E26 /* MYNotificationCenter.h */,
 				A86921C118BDF9B900F81E26 /* MYNotificationCenter.m */,
+				E78D7FE01951CFAA00A01C6A /* SelectorInit.h */,
+				E78D7FE11951CFAA00A01C6A /* SelectorInit.m */,
 				A86921A318BDF03300F81E26 /* Images.xcassets */,
 				A869219218BDF03300F81E26 /* Supporting Files */,
 			);
@@ -294,6 +299,7 @@
 			files = (
 				A86921A218BDF03300F81E26 /* ViewController.m in Sources */,
 				A869219C18BDF03300F81E26 /* AppDelegate.m in Sources */,
+				E78D7FE21951CFAA00A01C6A /* SelectorInit.m in Sources */,
 				A869219818BDF03300F81E26 /* main.m in Sources */,
 				A86921C218BDF9B900F81E26 /* MYNotificationCenter.m in Sources */,
 			);
